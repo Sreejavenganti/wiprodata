@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace Helloworld
 {
-    internal class Demo1
+    internal class Unary
     {
+        static void Main()
+        {
+            int x = 12;
+            Console.WriteLine(++x);
+        }
     }
 }

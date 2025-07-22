@@ -6,7 +6,13 @@ using System.Threading.Tasks;
 
 namespace Helloworld
 {
-    internal class Data
+    internal class Bitwise2
     {
+        static void Main()
+        {
+            int a = 5, b = 3;
+            Console.WriteLine(a | b);
+
+        }
     }
 }
