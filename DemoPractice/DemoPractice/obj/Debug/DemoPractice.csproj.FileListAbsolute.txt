@@ -1,8 +1,0 @@
-C:\wipro\Day2\DemoPractice\DemoPractice\bin\Debug\DemoPractice.exe.config
-C:\wipro\Day2\DemoPractice\DemoPractice\bin\Debug\DemoPractice.exe
-C:\wipro\Day2\DemoPractice\DemoPractice\bin\Debug\DemoPractice.pdb
-C:\wipro\Day2\DemoPractice\DemoPractice\obj\Debug\DemoPractice.csproj.AssemblyReference.cache
-C:\wipro\Day2\DemoPractice\DemoPractice\obj\Debug\DemoPractice.csproj.CoreCompileInputs.cache
-C:\wipro\Day2\DemoPractice\DemoPractice\obj\Debug\DemoPractice.exe
-C:\wipro\Day2\DemoPractice\DemoPractice\obj\Debug\DemoPractice.pdb
-C:\wipro\Day2\DemoPractice\DemoPractice\obj\Debug\DemoPractice.exe.config
