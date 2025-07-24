@@ -1,0 +1,7 @@
+C:\wipro\Day3\InheritanceExs\InheritanceExs\bin\Debug\InheritanceExs.exe.config
+C:\wipro\Day3\InheritanceExs\InheritanceExs\bin\Debug\InheritanceExs.exe
+C:\wipro\Day3\InheritanceExs\InheritanceExs\bin\Debug\InheritanceExs.pdb
+C:\wipro\Day3\InheritanceExs\InheritanceExs\obj\Debug\InheritanceExs.csproj.AssemblyReference.cache
+C:\wipro\Day3\InheritanceExs\InheritanceExs\obj\Debug\InheritanceExs.csproj.CoreCompileInputs.cache
+C:\wipro\Day3\InheritanceExs\InheritanceExs\obj\Debug\InheritanceExs.exe
+C:\wipro\Day3\InheritanceExs\InheritanceExs\obj\Debug\InheritanceExs.pdb
