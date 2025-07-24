@@ -1,0 +1,8 @@
+C:\wipro\Day4\InterfaceTest\InterfaceTest\bin\Debug\InterfaceTest.exe.config
+C:\wipro\Day4\InterfaceTest\InterfaceTest\bin\Debug\InterfaceTest.exe
+C:\wipro\Day4\InterfaceTest\InterfaceTest\bin\Debug\InterfaceTest.pdb
+C:\wipro\Day4\InterfaceTest\InterfaceTest\obj\Debug\InterfaceTest.csproj.AssemblyReference.cache
+C:\wipro\Day4\InterfaceTest\InterfaceTest\obj\Debug\InterfaceTest.csproj.CoreCompileInputs.cache
+C:\wipro\Day4\InterfaceTest\InterfaceTest\obj\Debug\InterfaceTest.exe
+C:\wipro\Day4\InterfaceTest\InterfaceTest\obj\Debug\InterfaceTest.pdb
+C:\wipro\Day4\InterfaceTest\InterfaceTest\obj\Debug\InterfaceTest.exe.config

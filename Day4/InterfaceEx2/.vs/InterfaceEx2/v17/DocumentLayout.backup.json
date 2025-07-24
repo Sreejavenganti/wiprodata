@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\wipro\\Day4\\InterfaceEx2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98D8794C-C838-4E22-99CA-31D9EDB64622}|InterfaceEx2\\InterfaceEx2.csproj|c:\\wipro\\day4\\interfaceex2\\interfaceex2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D8794C-C838-4E22-99CA-31D9EDB64622}|InterfaceEx2\\InterfaceEx2.csproj|solutionrelative:interfaceex2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D8794C-C838-4E22-99CA-31D9EDB64622}|InterfaceEx2\\InterfaceEx2.csproj|c:\\wipro\\day4\\interfaceex2\\interfaceex2\\demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D8794C-C838-4E22-99CA-31D9EDB64622}|InterfaceEx2\\InterfaceEx2.csproj|solutionrelative:interfaceex2\\demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D8794C-C838-4E22-99CA-31D9EDB64622}|InterfaceEx2\\InterfaceEx2.csproj|c:\\wipro\\day4\\interfaceex2\\interfaceex2\\ione.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D8794C-C838-4E22-99CA-31D9EDB64622}|InterfaceEx2\\InterfaceEx2.csproj|solutionrelative:interfaceex2\\ione.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D8794C-C838-4E22-99CA-31D9EDB64622}|InterfaceEx2\\InterfaceEx2.csproj|c:\\wipro\\day4\\interfaceex2\\interfaceex2\\itwo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D8794C-C838-4E22-99CA-31D9EDB64622}|InterfaceEx2\\InterfaceEx2.csproj|solutionrelative:interfaceex2\\itwo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IOne.cs",
+              "DocumentMoniker": "C:\\wipro\\Day4\\InterfaceEx2\\InterfaceEx2\\IOne.cs",
+              "RelativeDocumentMoniker": "InterfaceEx2\\IOne.cs",
+              "ToolTip": "C:\\wipro\\Day4\\InterfaceEx2\\InterfaceEx2\\IOne.cs*",
+              "RelativeToolTip": "InterfaceEx2\\IOne.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T07:29:42.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ITwo.cs",
+              "DocumentMoniker": "C:\\wipro\\Day4\\InterfaceEx2\\InterfaceEx2\\ITwo.cs",
+              "RelativeDocumentMoniker": "InterfaceEx2\\ITwo.cs",
+              "ToolTip": "C:\\wipro\\Day4\\InterfaceEx2\\InterfaceEx2\\ITwo.cs*",
+              "RelativeToolTip": "InterfaceEx2\\ITwo.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T07:27:35.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Demo.cs",
+              "DocumentMoniker": "C:\\wipro\\Day4\\InterfaceEx2\\InterfaceEx2\\Demo.cs",
+              "RelativeDocumentMoniker": "InterfaceEx2\\Demo.cs",
+              "ToolTip": "C:\\wipro\\Day4\\InterfaceEx2\\InterfaceEx2\\Demo.cs*",
+              "RelativeToolTip": "InterfaceEx2\\Demo.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T07:26:25.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\wipro\\Day4\\InterfaceEx2\\InterfaceEx2\\Program.cs",
+              "RelativeDocumentMoniker": "InterfaceEx2\\Program.cs",
+              "ToolTip": "C:\\wipro\\Day4\\InterfaceEx2\\InterfaceEx2\\Program.cs*",
+              "RelativeToolTip": "InterfaceEx2\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T07:25:54.985Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
