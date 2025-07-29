@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\wipro\\Day8\\MockDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19DF40EA-E485-4108-AAB8-CB9D51513DB7}|MockDemo\\MockDemo.csproj|c:\\wipro\\day8\\mockdemo\\mockdemo\\wiprodatatest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19DF40EA-E485-4108-AAB8-CB9D51513DB7}|MockDemo\\MockDemo.csproj|solutionrelative:mockdemo\\wiprodatatest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19DF40EA-E485-4108-AAB8-CB9D51513DB7}|MockDemo\\MockDemo.csproj|c:\\wipro\\day8\\mockdemo\\mockdemo\\iwiprodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19DF40EA-E485-4108-AAB8-CB9D51513DB7}|MockDemo\\MockDemo.csproj|solutionrelative:mockdemo\\iwiprodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19DF40EA-E485-4108-AAB8-CB9D51513DB7}|MockDemo\\MockDemo.csproj|c:\\wipro\\day8\\mockdemo\\mockdemo\\wiprodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19DF40EA-E485-4108-AAB8-CB9D51513DB7}|MockDemo\\MockDemo.csproj|solutionrelative:mockdemo\\wiprodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19DF40EA-E485-4108-AAB8-CB9D51513DB7}|MockDemo\\MockDemo.csproj|c:\\wipro\\day8\\mockdemo\\mockdemo\\mockdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{19DF40EA-E485-4108-AAB8-CB9D51513DB7}|MockDemo\\MockDemo.csproj|solutionrelative:mockdemo\\mockdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19DF40EA-E485-4108-AAB8-CB9D51513DB7}|MockDemo\\MockDemo.csproj|c:\\wipro\\day8\\mockdemo\\mockdemo\\calculationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19DF40EA-E485-4108-AAB8-CB9D51513DB7}|MockDemo\\MockDemo.csproj|solutionrelative:mockdemo\\calculationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19DF40EA-E485-4108-AAB8-CB9D51513DB7}|MockDemo\\MockDemo.csproj|c:\\wipro\\day8\\mockdemo\\mockdemo\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19DF40EA-E485-4108-AAB8-CB9D51513DB7}|MockDemo\\MockDemo.csproj|solutionrelative:mockdemo\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19DF40EA-E485-4108-AAB8-CB9D51513DB7}|MockDemo\\MockDemo.csproj|c:\\wipro\\day8\\mockdemo\\mockdemo\\employdaotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19DF40EA-E485-4108-AAB8-CB9D51513DB7}|MockDemo\\MockDemo.csproj|solutionrelative:mockdemo\\employdaotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19DF40EA-E485-4108-AAB8-CB9D51513DB7}|MockDemo\\MockDemo.csproj|c:\\wipro\\day8\\mockdemo\\mockdemo\\employdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19DF40EA-E485-4108-AAB8-CB9D51513DB7}|MockDemo\\MockDemo.csproj|solutionrelative:mockdemo\\employdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19DF40EA-E485-4108-AAB8-CB9D51513DB7}|MockDemo\\MockDemo.csproj|c:\\wipro\\day8\\mockdemo\\mockdemo\\iemploy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19DF40EA-E485-4108-AAB8-CB9D51513DB7}|MockDemo\\MockDemo.csproj|solutionrelative:mockdemo\\iemploy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19DF40EA-E485-4108-AAB8-CB9D51513DB7}|MockDemo\\MockDemo.csproj|c:\\wipro\\day8\\mockdemo\\mockdemo\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19DF40EA-E485-4108-AAB8-CB9D51513DB7}|MockDemo\\MockDemo.csproj|solutionrelative:mockdemo\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19DF40EA-E485-4108-AAB8-CB9D51513DB7}|MockDemo\\MockDemo.csproj|c:\\wipro\\day8\\mockdemo\\mockdemo\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19DF40EA-E485-4108-AAB8-CB9D51513DB7}|MockDemo\\MockDemo.csproj|solutionrelative:mockdemo\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WiproData.cs",
+              "DocumentMoniker": "C:\\wipro\\Day8\\MockDemo\\MockDemo\\WiproData.cs",
+              "RelativeDocumentMoniker": "MockDemo\\WiproData.cs",
+              "ToolTip": "C:\\wipro\\Day8\\MockDemo\\MockDemo\\WiproData.cs",
+              "RelativeToolTip": "MockDemo\\WiproData.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T13:44:03.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IWiproData.cs",
+              "DocumentMoniker": "C:\\wipro\\Day8\\MockDemo\\MockDemo\\IWiproData.cs",
+              "RelativeDocumentMoniker": "MockDemo\\IWiproData.cs",
+              "ToolTip": "C:\\wipro\\Day8\\MockDemo\\MockDemo\\IWiproData.cs",
+              "RelativeToolTip": "MockDemo\\IWiproData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T13:37:33.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WiproDataTest.cs",
+              "DocumentMoniker": "C:\\wipro\\Day8\\MockDemo\\MockDemo\\WiproDataTest.cs",
+              "RelativeDocumentMoniker": "MockDemo\\WiproDataTest.cs",
+              "ToolTip": "C:\\wipro\\Day8\\MockDemo\\MockDemo\\WiproDataTest.cs",
+              "RelativeToolTip": "MockDemo\\WiproDataTest.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA4wB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T13:35:26.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CalculationTest.cs",
+              "DocumentMoniker": "C:\\wipro\\Day8\\MockDemo\\MockDemo\\CalculationTest.cs",
+              "RelativeDocumentMoniker": "MockDemo\\CalculationTest.cs",
+              "ToolTip": "C:\\wipro\\Day8\\MockDemo\\MockDemo\\CalculationTest.cs",
+              "RelativeToolTip": "MockDemo\\CalculationTest.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAiwCcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T13:22:33.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Calculation.cs",
+              "DocumentMoniker": "C:\\wipro\\Day8\\MockDemo\\MockDemo\\Calculation.cs",
+              "RelativeDocumentMoniker": "MockDemo\\Calculation.cs",
+              "ToolTip": "C:\\wipro\\Day8\\MockDemo\\MockDemo\\Calculation.cs",
+              "RelativeToolTip": "MockDemo\\Calculation.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvxQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T13:19:04.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MockDemo",
+              "DocumentMoniker": "C:\\wipro\\Day8\\MockDemo\\MockDemo\\MockDemo.csproj",
+              "RelativeDocumentMoniker": "MockDemo\\MockDemo.csproj",
+              "ToolTip": "C:\\wipro\\Day8\\MockDemo\\MockDemo\\MockDemo.csproj",
+              "RelativeToolTip": "MockDemo\\MockDemo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-29T12:50:57.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployDaoTest.cs",
+              "DocumentMoniker": "C:\\wipro\\Day8\\MockDemo\\MockDemo\\EmployDaoTest.cs",
+              "RelativeDocumentMoniker": "MockDemo\\EmployDaoTest.cs",
+              "ToolTip": "C:\\wipro\\Day8\\MockDemo\\MockDemo\\EmployDaoTest.cs",
+              "RelativeToolTip": "MockDemo\\EmployDaoTest.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T12:52:00.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IEmploy.cs",
+              "DocumentMoniker": "C:\\wipro\\Day8\\MockDemo\\MockDemo\\IEmploy.cs",
+              "RelativeDocumentMoniker": "MockDemo\\IEmploy.cs",
+              "ToolTip": "C:\\wipro\\Day8\\MockDemo\\MockDemo\\IEmploy.cs",
+              "RelativeToolTip": "MockDemo\\IEmploy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T12:41:18.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployDao.cs",
+              "DocumentMoniker": "C:\\wipro\\Day8\\MockDemo\\MockDemo\\EmployDao.cs",
+              "RelativeDocumentMoniker": "MockDemo\\EmployDao.cs",
+              "ToolTip": "C:\\wipro\\Day8\\MockDemo\\MockDemo\\EmployDao.cs",
+              "RelativeToolTip": "MockDemo\\EmployDao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T12:41:04.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Employ.cs",
+              "DocumentMoniker": "C:\\wipro\\Day8\\MockDemo\\MockDemo\\Employ.cs",
+              "RelativeDocumentMoniker": "MockDemo\\Employ.cs",
+              "ToolTip": "C:\\wipro\\Day8\\MockDemo\\MockDemo\\Employ.cs",
+              "RelativeToolTip": "MockDemo\\Employ.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T12:37:23.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\wipro\\Day8\\MockDemo\\MockDemo\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "MockDemo\\UnitTest1.cs",
+              "ToolTip": "C:\\wipro\\Day8\\MockDemo\\MockDemo\\UnitTest1.cs",
+              "RelativeToolTip": "MockDemo\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T12:36:47.664Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
