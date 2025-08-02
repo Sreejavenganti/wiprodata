@@ -1,0 +1,8 @@
+C:\wipro\Day10\LspWithout\LspWithout\bin\Debug\LspWithout.exe.config
+C:\wipro\Day10\LspWithout\LspWithout\bin\Debug\LspWithout.exe
+C:\wipro\Day10\LspWithout\LspWithout\bin\Debug\LspWithout.pdb
+C:\wipro\Day10\LspWithout\LspWithout\obj\Debug\LspWithout.csproj.AssemblyReference.cache
+C:\wipro\Day10\LspWithout\LspWithout\obj\Debug\LspWithout.csproj.CoreCompileInputs.cache
+C:\wipro\Day10\LspWithout\LspWithout\obj\Debug\LspWithout.exe
+C:\wipro\Day10\LspWithout\LspWithout\obj\Debug\LspWithout.pdb
+C:\wipro\Day10\LspWithout\LspWithout\obj\Debug\LspWithout.exe.config

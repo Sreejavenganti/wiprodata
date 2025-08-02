@@ -1,0 +1,191 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\wipro\\Day10\\IspWithout\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF8E1EE7-8FB7-4E64-B49A-462296D5C86A}|..\\IspWith\\IspWith.csproj|c:\\wipro\\day10\\ispwith\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|IspWith||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF8E1EE7-8FB7-4E64-B49A-462296D5C86A}|..\\IspWith\\IspWith.csproj|c:\\wipro\\day10\\ispwith\\roshan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF8E1EE7-8FB7-4E64-B49A-462296D5C86A}|..\\IspWith\\IspWith.csproj|c:\\wipro\\day10\\ispwith\\rahul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF8E1EE7-8FB7-4E64-B49A-462296D5C86A}|..\\IspWith\\IspWith.csproj|c:\\wipro\\day10\\ispwith\\iprojectdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF8E1EE7-8FB7-4E64-B49A-462296D5C86A}|..\\IspWith\\IspWith.csproj|c:\\wipro\\day10\\ispwith\\ipersonaldetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C79D5D7-29ED-4932-9294-3882C1A30BA6}|IspWithout\\IspWithout.csproj|c:\\wipro\\day10\\ispwithout\\ispwithout\\sreeja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C79D5D7-29ED-4932-9294-3882C1A30BA6}|IspWithout\\IspWithout.csproj|solutionrelative:ispwithout\\sreeja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C79D5D7-29ED-4932-9294-3882C1A30BA6}|IspWithout\\IspWithout.csproj|c:\\wipro\\day10\\ispwithout\\ispwithout\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C79D5D7-29ED-4932-9294-3882C1A30BA6}|IspWithout\\IspWithout.csproj|solutionrelative:ispwithout\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C79D5D7-29ED-4932-9294-3882C1A30BA6}|IspWithout\\IspWithout.csproj|c:\\wipro\\day10\\ispwithout\\ispwithout\\iemploydetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C79D5D7-29ED-4932-9294-3882C1A30BA6}|IspWithout\\IspWithout.csproj|solutionrelative:ispwithout\\iemploydetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|IspWithout||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C79D5D7-29ED-4932-9294-3882C1A30BA6}|IspWithout\\IspWithout.csproj|c:\\wipro\\day10\\ispwithout\\ispwithout\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF8E1EE7-8FB7-4E64-B49A-462296D5C86A}|..\\IspWith\\IspWith.csproj|c:\\wipro\\day10\\ispwith\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IspWith",
+              "DocumentMoniker": "C:\\wipro\\Day10\\IspWith\\IspWith.csproj",
+              "RelativeDocumentMoniker": "..\\IspWith\\IspWith.csproj",
+              "ToolTip": "C:\\wipro\\Day10\\IspWith\\IspWith.csproj",
+              "RelativeToolTip": "..\\IspWith\\IspWith.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-31T08:36:59.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Roshan.cs",
+              "DocumentMoniker": "C:\\wipro\\Day10\\IspWith\\Roshan.cs",
+              "RelativeDocumentMoniker": "..\\IspWith\\Roshan.cs",
+              "ToolTip": "C:\\wipro\\Day10\\IspWith\\Roshan.cs",
+              "RelativeToolTip": "..\\IspWith\\Roshan.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T08:33:13.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Rahul.cs",
+              "DocumentMoniker": "C:\\wipro\\Day10\\IspWith\\Rahul.cs",
+              "RelativeDocumentMoniker": "..\\IspWith\\Rahul.cs",
+              "ToolTip": "C:\\wipro\\Day10\\IspWith\\Rahul.cs",
+              "RelativeToolTip": "..\\IspWith\\Rahul.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T08:31:49.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProjectDetails.cs",
+              "DocumentMoniker": "C:\\wipro\\Day10\\IspWith\\IProjectDetails.cs",
+              "RelativeDocumentMoniker": "..\\IspWith\\IProjectDetails.cs",
+              "ToolTip": "C:\\wipro\\Day10\\IspWith\\IProjectDetails.cs",
+              "RelativeToolTip": "..\\IspWith\\IProjectDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T08:30:14.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPersonalDetails.cs",
+              "DocumentMoniker": "C:\\wipro\\Day10\\IspWith\\IPersonalDetails.cs",
+              "RelativeDocumentMoniker": "..\\IspWith\\IPersonalDetails.cs",
+              "ToolTip": "C:\\wipro\\Day10\\IspWith\\IPersonalDetails.cs",
+              "RelativeToolTip": "..\\IspWith\\IPersonalDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T08:29:16.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\wipro\\Day10\\IspWith\\Program.cs",
+              "RelativeDocumentMoniker": "..\\IspWith\\Program.cs",
+              "ToolTip": "C:\\wipro\\Day10\\IspWith\\Program.cs",
+              "RelativeToolTip": "..\\IspWith\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T08:28:34.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IspWithout",
+              "DocumentMoniker": "C:\\wipro\\Day10\\IspWithout\\IspWithout\\IspWithout.csproj",
+              "RelativeDocumentMoniker": "IspWithout\\IspWithout.csproj",
+              "ToolTip": "C:\\wipro\\Day10\\IspWithout\\IspWithout\\IspWithout.csproj",
+              "RelativeToolTip": "IspWithout\\IspWithout.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-31T08:25:55.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IEmployDetails.cs",
+              "DocumentMoniker": "C:\\wipro\\Day10\\IspWithout\\IspWithout\\IEmployDetails.cs",
+              "RelativeDocumentMoniker": "IspWithout\\IEmployDetails.cs",
+              "ToolTip": "C:\\wipro\\Day10\\IspWithout\\IspWithout\\IEmployDetails.cs",
+              "RelativeToolTip": "IspWithout\\IEmployDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T08:22:22.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Sreeja.cs",
+              "DocumentMoniker": "C:\\wipro\\Day10\\IspWithout\\IspWithout\\Sreeja.cs",
+              "RelativeDocumentMoniker": "IspWithout\\Sreeja.cs",
+              "ToolTip": "C:\\wipro\\Day10\\IspWithout\\IspWithout\\Sreeja.cs",
+              "RelativeToolTip": "IspWithout\\Sreeja.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T08:22:15.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\wipro\\Day10\\IspWithout\\IspWithout\\Program.cs",
+              "RelativeDocumentMoniker": "IspWithout\\Program.cs",
+              "ToolTip": "C:\\wipro\\Day10\\IspWithout\\IspWithout\\Program.cs",
+              "RelativeToolTip": "IspWithout\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T08:21:42.464Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
