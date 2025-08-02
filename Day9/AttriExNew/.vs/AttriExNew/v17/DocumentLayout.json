@@ -1,0 +1,192 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\wipro\\Day9\\AttriExNew\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{565A31FA-C596-4B6B-A47E-D0BA43AC0EBC}|..\\VendorAttributes\\VendorAttributes.csproj|c:\\wipro\\day9\\vendorattributes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{565A31FA-C596-4B6B-A47E-D0BA43AC0EBC}|..\\VendorAttributes\\CustomerAttributes.csproj|c:\\wipro\\day9\\vendorattributes\\shiva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|CustomerAttributes||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{565A31FA-C596-4B6B-A47E-D0BA43AC0EBC}|..\\VendorAttributes\\CustomerAttributes.csproj|c:\\wipro\\day9\\vendorattributes\\demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{565A31FA-C596-4B6B-A47E-D0BA43AC0EBC}|..\\VendorAttributes\\CustomerAttributes.csproj|c:\\wipro\\day9\\vendorattributes\\krishna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{565A31FA-C596-4B6B-A47E-D0BA43AC0EBC}|..\\VendorAttributes\\CustomerAttributes.csproj|c:\\wipro\\day9\\vendorattributes\\vendorattributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F9AC07F-ECE6-4522-9691-AA9B30093E29}|AttriExNew\\AttriExNew.csproj|c:\\wipro\\day9\\attriexnew\\attriexnew\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F9AC07F-ECE6-4522-9691-AA9B30093E29}|AttriExNew\\AttriExNew.csproj|solutionrelative:attriexnew\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|AttriExNew||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F9AC07F-ECE6-4522-9691-AA9B30093E29}|AttriExNew\\AttriExNew.csproj|c:\\wipro\\day9\\attriexnew\\attriexnew\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F9AC07F-ECE6-4522-9691-AA9B30093E29}|AttriExNew\\AttriExNew.csproj|solutionrelative:attriexnew\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F9AC07F-ECE6-4522-9691-AA9B30093E29}|AttriExNew\\AttriExNew.csproj|c:\\wipro\\day9\\attriexnew\\attriexnew\\informationattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F9AC07F-ECE6-4522-9691-AA9B30093E29}|AttriExNew\\AttriExNew.csproj|solutionrelative:attriexnew\\informationattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F9AC07F-ECE6-4522-9691-AA9B30093E29}|AttriExNew\\AttriExNew.csproj|c:\\wipro\\day9\\attriexnew\\attriexnew\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{565A31FA-C596-4B6B-A47E-D0BA43AC0EBC}|..\\VendorAttributes\\CustomerAttributes.csproj|c:\\wipro\\day9\\vendorattributes\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Shiva.cs",
+              "DocumentMoniker": "C:\\wipro\\Day9\\VendorAttributes\\Shiva.cs",
+              "RelativeDocumentMoniker": "..\\VendorAttributes\\Shiva.cs",
+              "ToolTip": "C:\\wipro\\Day9\\VendorAttributes\\Shiva.cs",
+              "RelativeToolTip": "..\\VendorAttributes\\Shiva.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T07:40:09.824Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerAttributes",
+              "DocumentMoniker": "C:\\wipro\\Day9\\VendorAttributes\\CustomerAttributes.csproj",
+              "RelativeDocumentMoniker": "..\\VendorAttributes\\CustomerAttributes.csproj",
+              "ToolTip": "C:\\wipro\\Day9\\VendorAttributes\\CustomerAttributes.csproj",
+              "RelativeToolTip": "..\\VendorAttributes\\CustomerAttributes.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-30T07:57:00.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Demo.cs",
+              "DocumentMoniker": "C:\\wipro\\Day9\\VendorAttributes\\Demo.cs",
+              "RelativeDocumentMoniker": "..\\VendorAttributes\\Demo.cs",
+              "ToolTip": "C:\\wipro\\Day9\\VendorAttributes\\Demo.cs",
+              "RelativeToolTip": "..\\VendorAttributes\\Demo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T07:51:37.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Krishna.cs",
+              "DocumentMoniker": "C:\\wipro\\Day9\\VendorAttributes\\Krishna.cs",
+              "RelativeDocumentMoniker": "..\\VendorAttributes\\Krishna.cs",
+              "ToolTip": "C:\\wipro\\Day9\\VendorAttributes\\Krishna.cs",
+              "RelativeToolTip": "..\\VendorAttributes\\Krishna.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T07:50:09.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VendorAttributes.cs",
+              "DocumentMoniker": "C:\\wipro\\Day9\\VendorAttributes\\VendorAttributes.cs",
+              "RelativeDocumentMoniker": "..\\VendorAttributes\\VendorAttributes.cs",
+              "ToolTip": "C:\\wipro\\Day9\\VendorAttributes\\VendorAttributes.cs",
+              "RelativeToolTip": "..\\VendorAttributes\\VendorAttributes.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T07:36:06.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\wipro\\Day9\\VendorAttributes\\Program.cs",
+              "RelativeDocumentMoniker": "..\\VendorAttributes\\Program.cs",
+              "ToolTip": "C:\\wipro\\Day9\\VendorAttributes\\Program.cs",
+              "RelativeToolTip": "..\\VendorAttributes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T07:34:58.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AttriExNew",
+              "DocumentMoniker": "C:\\wipro\\Day9\\AttriExNew\\AttriExNew\\AttriExNew.csproj",
+              "RelativeDocumentMoniker": "AttriExNew\\AttriExNew.csproj",
+              "ToolTip": "C:\\wipro\\Day9\\AttriExNew\\AttriExNew\\AttriExNew.csproj",
+              "RelativeToolTip": "AttriExNew\\AttriExNew.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-30T07:28:02.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\wipro\\Day9\\AttriExNew\\AttriExNew\\Student.cs",
+              "RelativeDocumentMoniker": "AttriExNew\\Student.cs",
+              "ToolTip": "C:\\wipro\\Day9\\AttriExNew\\AttriExNew\\Student.cs",
+              "RelativeToolTip": "AttriExNew\\Student.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T07:13:46.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InformationAttribute.cs",
+              "DocumentMoniker": "C:\\wipro\\Day9\\AttriExNew\\AttriExNew\\InformationAttribute.cs",
+              "RelativeDocumentMoniker": "AttriExNew\\InformationAttribute.cs",
+              "ToolTip": "C:\\wipro\\Day9\\AttriExNew\\AttriExNew\\InformationAttribute.cs",
+              "RelativeToolTip": "AttriExNew\\InformationAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T07:10:50.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\wipro\\Day9\\AttriExNew\\AttriExNew\\Program.cs",
+              "RelativeDocumentMoniker": "AttriExNew\\Program.cs",
+              "ToolTip": "C:\\wipro\\Day9\\AttriExNew\\AttriExNew\\Program.cs",
+              "RelativeToolTip": "AttriExNew\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T07:10:16.075Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
