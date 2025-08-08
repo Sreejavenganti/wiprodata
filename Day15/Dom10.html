@@ -1,0 +1,30 @@
+<html>
+    <head>
+        <script>
+                function domAdd(){
+                var students = ["Harish","Surya",
+                "Aishwarya","Kunthi","Lakshmi"];
+                var studentList = document.getElementById("stud");
+                for(var v=0;v<students.length;v++) 
+                {
+                    var newLi = document.createElement("option");
+                    newLi.innerHTML = students[v];
+                    studentList.appendChild(newLi);
+                }
+                }
+        </script>
+    </head>
+<body onload="domAdd()">
+    <select name="stud" id = "stud">
+        <option value="Bhagya">Bhagya</option>
+        <option value="SaiRaj">SaiRaj</option>
+        <option value="Bhanuja">Bhanuja</option>
+        <option value="Sreeja">Sreeja</option>
+        <option value="Bhargavi">Bhargavi</option>
+        <option value="Shlesha">Shlesha</option>
+        <option value="Pravasthi">Pravasthi</option>
+        <option value="Ganadhithya">Ganadhithya</option>
+    </select>
+
+</body>
+</html>

@@ -1,0 +1,23 @@
+<html>
+     <head>
+         <script>
+              function show(){
+                var result ="";
+                var str ="Welcome to JavaScript....";
+                result += "length " +str.length + "<br/>";
+                result += "index of char 'a' is" +str.indexOf("a")+ "<br/>";
+                result += "Char at 5th Position is " +str.charAt(5)+ "<br/>";
+                result += "Lower Case String " +str.toLowerCase() + "<br/>";
+                result += "Upper Case String "+str.toUpperCase() + "<br/>";
+                result += "Part of String is " +str.substring(5,10) + "<br/>"; 
+                result += "Replaced String is " +str.replace("JavaScript","HTML") + "<br/>";
+                document.getElementById("result").innerHTML = result;
+              }
+         </script>
+     </head>
+<body onload="show()">
+    <span id ="result">
+
+    </span>
+</body>
+</html>

@@ -1,0 +1,16 @@
+<html>
+    <head>
+        <script>
+             function show(){
+                var para = document.createElement("p");
+                para.innerText = "Sample Para";
+                var div = document.getElementById("D1");
+                document.body.insertBefore(para,div);
+             }
+        </script>
+    </head>
+<body onload="show()">
+    <span id ="D1">This is Sample Division</span>
+
+</body>
+</html>

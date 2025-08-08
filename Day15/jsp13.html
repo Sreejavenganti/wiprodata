@@ -1,0 +1,19 @@
+<html>
+    <head>
+        <script>
+              function show(){
+                var result ="";
+                var myarray = ["Ganesh","shivay", "Rudra", "Ekaksh", "Niskarsh", "Adhitya" ];
+                for(var v in myarray){
+                    result += myarray[v] + "<br>";
+                }
+                document.getElementById("result").innerHTML = result;
+              }
+        </script>
+    </head>
+<body onload="show()">
+    <span id ="result">
+
+    </span>
+</body>
+</html>
