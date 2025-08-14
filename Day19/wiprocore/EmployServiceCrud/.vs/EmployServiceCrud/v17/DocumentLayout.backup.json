@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\wipro\\wiprocore\\EmployServiceCrud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A40CCA2-5BEA-4523-98B6-476762AA0055}|EmployServiceCrud\\EmployServiceCrud.csproj|c:\\wipro\\wiprocore\\employservicecrud\\employservicecrud\\controllers\\employscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A40CCA2-5BEA-4523-98B6-476762AA0055}|EmployServiceCrud\\EmployServiceCrud.csproj|solutionrelative:employservicecrud\\controllers\\employscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A40CCA2-5BEA-4523-98B6-476762AA0055}|EmployServiceCrud\\EmployServiceCrud.csproj|c:\\wipro\\wiprocore\\employservicecrud\\employservicecrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6A40CCA2-5BEA-4523-98B6-476762AA0055}|EmployServiceCrud\\EmployServiceCrud.csproj|solutionrelative:employservicecrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A40CCA2-5BEA-4523-98B6-476762AA0055}|EmployServiceCrud\\EmployServiceCrud.csproj|c:\\wipro\\wiprocore\\employservicecrud\\employservicecrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A40CCA2-5BEA-4523-98B6-476762AA0055}|EmployServiceCrud\\EmployServiceCrud.csproj|solutionrelative:employservicecrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A40CCA2-5BEA-4523-98B6-476762AA0055}|EmployServiceCrud\\EmployServiceCrud.csproj|c:\\wipro\\wiprocore\\employservicecrud\\employservicecrud\\models\\efcoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A40CCA2-5BEA-4523-98B6-476762AA0055}|EmployServiceCrud\\EmployServiceCrud.csproj|solutionrelative:employservicecrud\\models\\efcoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A40CCA2-5BEA-4523-98B6-476762AA0055}|EmployServiceCrud\\EmployServiceCrud.csproj|c:\\wipro\\wiprocore\\employservicecrud\\employservicecrud\\models\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A40CCA2-5BEA-4523-98B6-476762AA0055}|EmployServiceCrud\\EmployServiceCrud.csproj|solutionrelative:employservicecrud\\models\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmploysController.cs",
+              "DocumentMoniker": "C:\\wipro\\wiprocore\\EmployServiceCrud\\EmployServiceCrud\\Controllers\\EmploysController.cs",
+              "RelativeDocumentMoniker": "EmployServiceCrud\\Controllers\\EmploysController.cs",
+              "ToolTip": "C:\\wipro\\wiprocore\\EmployServiceCrud\\EmployServiceCrud\\Controllers\\EmploysController.cs",
+              "RelativeToolTip": "EmployServiceCrud\\Controllers\\EmploysController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T11:18:29.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\wipro\\wiprocore\\EmployServiceCrud\\EmployServiceCrud\\Program.cs",
+              "RelativeDocumentMoniker": "EmployServiceCrud\\Program.cs",
+              "ToolTip": "C:\\wipro\\wiprocore\\EmployServiceCrud\\EmployServiceCrud\\Program.cs",
+              "RelativeToolTip": "EmployServiceCrud\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T11:14:01.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\wipro\\wiprocore\\EmployServiceCrud\\EmployServiceCrud\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployServiceCrud\\appsettings.json",
+              "ToolTip": "C:\\wipro\\wiprocore\\EmployServiceCrud\\EmployServiceCrud\\appsettings.json",
+              "RelativeToolTip": "EmployServiceCrud\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-11T11:10:56.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EFCoreDbContext.cs",
+              "DocumentMoniker": "C:\\wipro\\wiprocore\\EmployServiceCrud\\EmployServiceCrud\\Models\\EFCoreDbContext.cs",
+              "RelativeDocumentMoniker": "EmployServiceCrud\\Models\\EFCoreDbContext.cs",
+              "ToolTip": "C:\\wipro\\wiprocore\\EmployServiceCrud\\EmployServiceCrud\\Models\\EFCoreDbContext.cs",
+              "RelativeToolTip": "EmployServiceCrud\\Models\\EFCoreDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T11:05:33.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employ.cs",
+              "DocumentMoniker": "C:\\wipro\\wiprocore\\EmployServiceCrud\\EmployServiceCrud\\Models\\Employ.cs",
+              "RelativeDocumentMoniker": "EmployServiceCrud\\Models\\Employ.cs",
+              "ToolTip": "C:\\wipro\\wiprocore\\EmployServiceCrud\\EmployServiceCrud\\Models\\Employ.cs",
+              "RelativeToolTip": "EmployServiceCrud\\Models\\Employ.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T10:59:25.302Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
